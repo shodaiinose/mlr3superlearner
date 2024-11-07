@@ -1,4 +1,4 @@
-Package: mlr3superlearner
+Package: mlr3superlearnerweights
 Type: Package
 Title: Super Learner Fitting and Prediction
 Version: 0.1.4
